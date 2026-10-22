@@ -10,7 +10,7 @@ By terminating broadcast domains at the Layer 3 Multilayer Core Switch, this arc
 ## Network Architecture & Topology
 
 ### Physical Topology Diagrams
-![Topology Diagram](image_731a3d.png)
+![Topology Diagram](topology.png)
 
 ### Network Layout & Interconnection Matrix
 The campus topology consists of a central Multilayer Switch (`Core-SW`) acting as the Layer 3 core routing engine, connected via 802.1Q trunk links to two access switches (`Switch1` and `Switch2`).
