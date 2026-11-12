@@ -6,7 +6,7 @@ This lab upgrades the enterprise Layer 2 campus network for high availability an
 ---
 
 ## 1. Network Topology
-![Lab 02 Topology](topology-etherchannel.png)
+![Lab 02 Topology](topology_lab2.png)
 
 ---
 
